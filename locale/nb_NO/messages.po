@@ -36,13 +36,13 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-15 13:28-0400\n"
-"PO-Revision-Date: 2015-10-30 12:56+0100\n"
+"PO-Revision-Date: 2015-11-06 13:17+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 1.8.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: nb_NO\n"
 
@@ -3125,6 +3125,8 @@ msgid ""
 "Keep this checked for guiding. Un-check to disable all mount guide commands and "
 "allow the mount to run un-guided"
 msgstr ""
+"Denne må være valgt for styring. Er den ikke valgt vil ingen styrekommandoer gå "
+"til montasjen slik at montasjen  vil kjøre uten styring."
 
 #: mount.cpp:660
 #, c-format
@@ -3151,39 +3153,39 @@ msgstr ""
 
 #: mount.cpp:1024
 msgid "Rotator position has changed, recalibration is needed."
-msgstr ""
+msgstr "Rotator-posisjonen er endret slik at kalibrering må gjennomføres."
 
 #: myframe.cpp:270 myframe.cpp:344
 msgid "History"
-msgstr ""
+msgstr "Historikk"
 
 #: myframe.cpp:275 myframe.cpp:345
 msgid "Guide Stats"
-msgstr ""
+msgstr "Styrestatistikk"
 
 #: myframe.cpp:285 myframe.cpp:347
 msgid "Star Profile"
-msgstr ""
+msgstr "Stjerneprofil"
 
 #: myframe.cpp:290 myframe.cpp:348 target.cpp:51
 msgid "Target"
-msgstr ""
+msgstr "Mål"
 
 #: myframe.cpp:318
 msgid "Server start failed"
-msgstr ""
+msgstr "Oppstart av server feilet"
 
 #: myframe.cpp:320 socket_server.cpp:111
 msgid "Server started"
-msgstr ""
+msgstr "Server har startet"
 
 #: myframe.cpp:420
 msgid "&Save Image..."
-msgstr ""
+msgstr "&Lagre bilde..."
 
 #: myframe.cpp:420
 msgid "Save current image"
-msgstr ""
+msgstr "Lagre dette bilde"
 
 #: myframe.cpp:421
 msgid "E&xit\tAlt-X"
@@ -3191,175 +3193,175 @@ msgstr ""
 
 #: myframe.cpp:421
 msgid "Quit this program"
-msgstr ""
+msgstr "Avslutt programmet"
 
 #: myframe.cpp:424
 msgid "&Manual Guide"
-msgstr ""
+msgstr "&Manuell styring"
 
 #: myframe.cpp:424
 msgid "Manual / test guide dialog"
-msgstr ""
+msgstr "Dialog for manuell / teststyring "
 
 #: myframe.cpp:425
 msgid "&Auto-select Star\tAlt-S"
-msgstr ""
+msgstr "&Auto-valg av stjerne\tAlt-S"
 
 #: myframe.cpp:425
 msgid "Automatically select star"
-msgstr ""
+msgstr "Automatisk valg av stjerne"
 
 #: myframe.cpp:426
 msgid "&Review Calibration Data\tAlt-C"
-msgstr ""
+msgstr "&Se gjennom kalibreringsdata\tAlt-C"
 
 #: myframe.cpp:426
 msgid "Review calibration data from last successful calibration"
-msgstr ""
+msgstr "Se gjennom kalibreringsdata fra den siste vellykkede kalibreringen"
 
 #: myframe.cpp:429
 msgid "Restore Calibration Data..."
-msgstr ""
+msgstr "Gjenopprett kalibreringsdata..."
 
 #: myframe.cpp:429
 msgid "Restore calibration data from last successful calibration"
-msgstr ""
+msgstr "Gjenopprett kalibreringsdata fra forrige vellykkede kalibrering"
 
 #: myframe.cpp:430
 msgid "Enter Calibration Data..."
-msgstr ""
+msgstr "Legg inn kalibreringsdata..."
 
 #: myframe.cpp:430
 msgid "Manually calibrate"
-msgstr ""
+msgstr "Manuell kalibrering"
 
 #: myframe.cpp:431
 msgid "Flip Calibration Data"
-msgstr ""
+msgstr "Flipp kalibreringsdata"
 
 #: myframe.cpp:431
 msgid "Flip RA calibration vector"
-msgstr ""
+msgstr "Flipp RA kalibreringsvektor"
 
 #: myframe.cpp:432
 msgid "Clear Calibration Data..."
-msgstr ""
+msgstr "Slett kalibreringsdata..."
 
 #: myframe.cpp:432
 msgid "Clear calibration data currently in use"
-msgstr ""
+msgstr "Slett kalibreringsdata som er i bruk nå"
 
 #: myframe.cpp:433
 msgid "Modify Calibration"
-msgstr ""
+msgstr "Modifiser kalibrering"
 
 #: myframe.cpp:436
 msgid "Adjust &Lock Position"
-msgstr ""
+msgstr "Juster &Låseposisjonen"
 
 #: myframe.cpp:436
 msgid "Adjust the lock position"
-msgstr ""
+msgstr "Justere låseposisjonen"
 
 #: myframe.cpp:437
 msgid "&Comet Tracking"
-msgstr ""
+msgstr "Følg &Komet"
 
 #: myframe.cpp:437
 msgid "Run the Comet Tracking tool"
-msgstr ""
+msgstr "Kjør verktøy for kometfølging"
 
 #: myframe.cpp:438
 msgid "&Guiding Assistant"
-msgstr ""
+msgstr "&Styreassistent"
 
 #: myframe.cpp:438
 msgid "Run the Guiding Assistant"
-msgstr ""
+msgstr "Kjør styreassistenten"
 
 #: myframe.cpp:439
 msgid "&Drift Align"
-msgstr ""
+msgstr "&Driftjustering"
 
 #: myframe.cpp:439
 msgid "Run the Drift Alignment tool"
-msgstr ""
+msgstr "Kjør verktøy for driftjustering"
 
 #: myframe.cpp:441
 msgid "Enable Star Image Logging"
-msgstr ""
+msgstr "Aktiver loggføring av stjernebilder"
 
 #: myframe.cpp:441
 msgid "Enable logging of star images"
-msgstr ""
+msgstr "Aktiver loggføring av stjernebilder"
 
 #: myframe.cpp:442
 msgid "Enable Server"
-msgstr ""
+msgstr "Aktiver server"
 
 #: myframe.cpp:442
 msgid "Enable PHD2 server capability"
-msgstr ""
+msgstr "Aktiver PHD2 server"
 
 #: myframe.cpp:443 nudge_lock.cpp:159
 msgid "Sticky Lock Position"
-msgstr ""
+msgstr "Klebrig låseposisjon"
 
 #: myframe.cpp:443
 msgid "Keep the same lock position when guiding starts"
-msgstr ""
+msgstr "Holder samme låseposisjon når styringen starter"
 
 #: myframe.cpp:446
 msgid "Display Toolbar"
-msgstr ""
+msgstr "Vis verktøylinje"
 
 #: myframe.cpp:446
 msgid "Enable / disable tool bar"
-msgstr ""
+msgstr "Slå verktøylinje på/av"
 
 #: myframe.cpp:447
 msgid "Display &Graph"
-msgstr ""
+msgstr "Vis &Graf"
 
 #: myframe.cpp:447
 msgid "Enable / disable graph"
-msgstr ""
+msgstr "Slå graf på/av"
 
 #: myframe.cpp:448
 msgid "Display &Stats"
-msgstr ""
+msgstr "Vis &Statistikk"
 
 #: myframe.cpp:448
 msgid "Enable / disable guide stats"
-msgstr ""
+msgstr "Slå styrestatistikk på/av"
 
 #: myframe.cpp:449
 msgid "Display &AO Graph"
-msgstr ""
+msgstr "Vis &AO-graf"
 
 #: myframe.cpp:449
 msgid "Enable / disable AO graph"
-msgstr ""
+msgstr "Slå AO-graf på/av"
 
 #: myframe.cpp:450
 msgid "Display &Target"
-msgstr ""
+msgstr "Vis &Mål"
 
 #: myframe.cpp:450
 msgid "Enable / disable target"
-msgstr ""
+msgstr "Slå mål på/av"
 
 #: myframe.cpp:451
 msgid "Display Star &Profile"
-msgstr ""
+msgstr "Vis stjerne&profil"
 
 #: myframe.cpp:451
 msgid "Enable / disable star profile view"
-msgstr ""
+msgstr "Slå stjerneprofil på/av"
 
 #: myframe.cpp:453
 msgid "&No Overlay"
-msgstr ""
+msgstr "&Uten "
 
 #: myframe.cpp:453
 msgid "No additional crosshairs"
